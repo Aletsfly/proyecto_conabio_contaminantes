@@ -1,0 +1,9 @@
+
+# Archivos de entorno virtual
+venv/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de entorno
+.env
