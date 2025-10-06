@@ -17,7 +17,7 @@ def main():
     
     print("--- Iniciando script de análisis geoespacial ---")
 
-    # --- 1. Definir Rutas y Crear Directorio de Salida ---
+    # --- 1. Definimos Rutas y Creamos Directorio de Salida ---
     ruta_base = '.'
     ruta_datos = os.path.join(ruta_base, 'data')
     ruta_salida = os.path.join(ruta_base, 'output')
