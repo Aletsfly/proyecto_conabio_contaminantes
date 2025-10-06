@@ -1,0 +1,73 @@
+--- REPORTE DE NOMBRES DE ESTADOS EN EL ARCHIVO DE CONABIO ---
+Archivo inspeccionado: ./data/dest22gw_c/dest22cw.shp
+
+>>> LISTA DE NOMBRES DE ESTADOS (ORIGINALES):
+- Aguascalientes
+- Baja California
+- Baja California Sur
+- Campeche
+- Chiapas
+- Chihuahua
+- Ciudad de México
+- Coahuila de Zaragoza
+- Colima
+- Durango
+- Guanajuato
+- Guerrero
+- Hidalgo
+- Jalisco
+- Michoacán de Ocampo
+- Morelos
+- México
+- Nayarit
+- Nuevo León
+- Oaxaca
+- Puebla
+- Querétaro
+- Quintana Roo
+- San Luis Potosí
+- Sinaloa
+- Sonora
+- Tabasco
+- Tamaulipas
+- Tlaxcala
+- Veracruz de Ignacio de la Llave
+- Yucatán
+- Zacatecas
+
+>>> LISTA DE NOMBRES DE ESTADOS (DESPUÉS DE LA LIMPIEZA):
+Estos son los nombres que deben coincidir en tu archivo CSV.
+- aguascalientes
+- baja california
+- baja california sur
+- campeche
+- chiapas
+- chihuahua
+- ciudad de mexico
+- coahuila de zaragoza
+- colima
+- durango
+- guanajuato
+- guerrero
+- hidalgo
+- jalisco
+- mexico
+- michoacan de ocampo
+- morelos
+- nayarit
+- nuevo leon
+- oaxaca
+- puebla
+- queretaro
+- quintana roo
+- san luis potosi
+- sinaloa
+- sonora
+- tabasco
+- tamaulipas
+- tlaxcala
+- veracruz de ignacio de la llave
+- yucatan
+- zacatecas
+
+--- FIN DEL REPORTE ---
